@@ -1,0 +1,135 @@
+body {
+	margin: 0px;
+	background-image: url(https://i.pinimg.com/originals/65/c3/27/65c32776dff4d7c630adec9a030c7666.jpg);
+	background-size: cover;
+
+}
+
+.bigheader{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}	
+
+.shutz{
+	border: 10px groove #6E5158;
+	background-color: #FB003F;
+	margin-right: 50px;
+	font-size:100px;
+	font-family: 'Bangers', cursive;
+	padding: 30px;
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+.main{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+
+img  {
+	width: 300px;
+	height: 400px;
+	margin: 10px;
+	border: 20px dashed brown
+}
+
+}
+
+.ch:hover {
+	transform: scale(1.1);
+	transition: transform 2s;
+}
+
+#sword {
+	border: 10px solid #4C1BE8;
+	background-color: #9C86E2;
+	margin-right: 50px;
+	font-size:100px;
+	font-family: 'Bangers', cursive;
+	padding: 30px;
+	padding-right: 30px;
+}
+
+#club {
+	border: 10px solid orange;
+	background-color: #472A03;
+	margin-right: 50px;
+	font-size:100px;
+	font-family: 'Bangers', cursive;
+	padding: 30px;
+}
+
+#crossbow {
+	border: 10px solid black;
+	background-color: orange;
+	margin-right: 50px;
+	font-size:100px;
+	font-family: 'Bangers', cursive;
+	padding: 30px;
+}
+
+#hookshot {
+	border: 10px solid #243426;
+	background-color: #47604A;
+	margin-right: 50px;
+	font-size:100px;
+	font-family: 'Bangers', cursive;
+	padding: 30px;
+}
+
+.button{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+button{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	width: 150px;
+	height: 55px;
+	border-radius: 20px;
+}
+
+button{
+	padding: 1rem 2rem;
+	font-size: 25px;
+	font-family: 'Bangers', cursive;
+	padding-bottom: 45px;
+	background-color: #535A92;
+	border: 5px solid black;
+}
+
+button:hover{
+	transition: transform 3s;
+	background-color: #7D83B0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
